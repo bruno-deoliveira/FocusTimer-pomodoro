@@ -45,13 +45,3 @@ Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
 <a href="https://www.linkedin.com/in/bruno-almeida-deoliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <h3 align="center">Developed by Bruno Oliveira ☕</h3>
-
-
-
-
-Neste módulo veremos sobre: Como manipular o navegador
-utilizando a DOM, funções callbacks, recursividade, princípios do
-Clean Code, ES6 Modules, padrão Factory, injeção de dependências,
-refatoração de código e muito mais...
-
-Nessa aula daremos introdução ao DOM (Document Object Model) do Broswer, aprenderemos como adicionar e remover classes do CSS com JavaScript.
