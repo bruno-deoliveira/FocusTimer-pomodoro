@@ -7,10 +7,11 @@
 
 
 ## 💻 Projeto
-Projeto 03 do modulo avançando com o javascript - Explore Rocketseat
-
-Nesse desafio, foi recriado uma aplicação adicionando e removendo classes do CSS com JavaScript. Utilizando a DOM, funções callbacks, recursividade, princípios do
-Clean Code, ES6 Modules, padrão Factory, injeção de dependências, refatoração de código a partir de um layout pronto no Figma.
+Este é o código HTML, CSS e JS para um aplicativo de temporizador estilo pomodoro chamado FocusTime. O pomodoro é uma técnica de gerenciamento de tempo que envolve períodos de trabalho focado intercalados com pequenos intervalos de descanso.
+- Temporizador estilo pomodoro com contagem regressiva
+- Botões de controle para iniciar, pausar e parar o temporizador
+- Botão para definir um novo tempo
+- Botões de som para ativar e desativar o som do temporizador
 
 ## 🚀 Tecnologias Utilizadas:
 <div>
